@@ -1,2 +1,2 @@
 # Stock-Scrapper
-A Python script to scrape  stock data and compute MACD indicators and plot them.
+A Python based projet to scrape stock data and compute MACD indicators and plot them.
